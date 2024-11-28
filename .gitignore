@@ -1,2 +1,6 @@
+build/
+dist/
+logs/
+target/
 .idea/
-
+*.iml
